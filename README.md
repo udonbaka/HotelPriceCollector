@@ -1,0 +1,2 @@
+# HotelPriceCollector
+ホテルの宿泊費をまとめて自動取得するプログラム
