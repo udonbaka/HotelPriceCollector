@@ -4,25 +4,7 @@
 
 ## インストール法、始め方
 
-日付、ホテル名、ホテルのURLを入力する。
+config.pyに日付、ホテル名、ホテルのURLを入力する。
+jupyterでaction.ipynbを実行する。
 
-（余裕があれば）会員ログイン後の価格を取得する。
-POST URL、ID、 PWも入力する。
-
-## 出力形式
-
-CSVファイル。
-（余裕があれば）EXCELに追加保存していく方法も調べる。
-
-（もっと余裕があれば）
-DBに保存してWeb形式で表示できればさらに良いが。。。
-
-## 開発フロー
-
-「Python最速データ収集術」の
-4.3.1『メディアから記事情報を収集しよう（P.260）』を参考に
-HTML要素を取得する。
-
-日付や会員情報送信については、
-simplenoteの「プログラミングやり直し」
-の例１、２辺りを参考にする。
+[![HotelPriceCollectorデモ動画](https://img.youtube.com/vi/XWg3qb4J44c/0.jpg)](https://www.youtube.com/watch?v=XWg3qb4J44c)
